@@ -31,6 +31,16 @@ Profit per unit: ₹164
 • Product miniaturization
 
 ## Team Members
-Kesar Krishna
-Shreya Deshpande
-Apeksha A H
+Kesar Krishna,
+Shreya Deshpande,
+Apeksha A H,
+
+## Project Images
+
+### Prototype Display
+![Prototype](WhatsApp Image 2026-03-15 at 21.51.23.jpeg)
+
+### Project Exhibition Setup
+![Exhibition](WhatsApp Image 2026-03-15 at 21.51.48.jpeg)
+
+
